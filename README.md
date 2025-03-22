@@ -18,7 +18,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <h5 align="center">
-  🌱 I'm currently pursuing a <b>Bachelor of Technology (BTech)</b> and exploring the vast world of <b>web development</b> and <b>data structures & algorithms (DSA)</b>.<br>
+  🌱 I'm currently pursuing a <b>Bachelor of Technology (BTech) from Electronics and Communication Engineering branch</b> and exploring the vast world of <b>web development</b> and <b>data structures & algorithms (DSA)</b>.<br>
   💡 I’m passionate about building <b>innovative projects</b> that solve real-world problems and enhance <b>user experiences</b>. I'm also diving into <b>open source contributions</b>.<br>
   💞 I’m always open to collaborating on impactful web development projects or any exciting challenge that pushes the boundaries of technology.<br>
   📌 <b>Let’s connect</b> on my social media:<br>
