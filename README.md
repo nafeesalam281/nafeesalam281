@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--  -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-taught+Front-End+Developer%2C;Aspiring+Software+Developer%2C;Electronics and Communication Engineering +Student%2C;Tech+Enthusiast%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs.." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-taught+Front-End+Developer%2C;Aspiring+Software+Developer%2C;Electronics+and+Communication+Engineering+Student%2C;Tech+Enthusiast%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs.." alt="Typing SVG" />
 </div>
 
 <p align="center">
